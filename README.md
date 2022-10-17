@@ -4,7 +4,10 @@ This is the implementation of the paper "Automatic Essay Scoring Systems Are Bot
 
 
 PREREQUISITES:
-IG RESULTS FOLDER(PRETRAINED MODELS, DATA, and RESULTS): https://drive.google.com/drive/folders/1YJ5I6Jw4XftAU6pcpDYpMskIr1_00Uuq?usp=sharing
+
+SKIPFLOW MODELS: https://drive.google.com/drive/folders/1igJqUXjUnQlnMvWCniZjMcIqtQmkN8qH?usp=sharing
+
+IG RESULTS FOLDER(PRETRAINED MEM NET & BERT MODELS, DATA, and RESULTS): https://drive.google.com/drive/folders/1YJ5I6Jw4XftAU6pcpDYpMskIr1_00Uuq?usp=sharing
 
 FINETUNED GPT MODEL: https://drive.google.com/drive/folders/1sKOGyI1-1YUB3qcBgv3-E4AHxLjFJ-Aw?usp=sharing
 
